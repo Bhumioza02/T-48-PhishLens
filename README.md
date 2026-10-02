@@ -1,8 +1,3 @@
-Exactly. They only require those **9 sections**. So keep the README focused and don't add unnecessary sections.
-
-Here is a **direct ready-to-paste README** specifically matching their required format:
-
-````markdown
 # 🔍 PhishLens — Scan Before You Trust
 
 **TECHFORGE 2026 | Cybersecurity Domain**
