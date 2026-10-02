@@ -1,0 +1,110 @@
+{
+  "prototype_notice": "This is a representative prototype reference dataset of protected brands and official domains for hackathon evaluation, not an exhaustive registry.",
+  "brands": [
+    {
+      "brand": "State Bank of India",
+      "short_name": "SBI",
+      "aliases": ["sbi", "onlinesbi"],
+      "official_domains": [
+        "sbi.co.in",
+        "onlinesbi.sbi",
+        "bank.sbi"
+      ],
+      "category": "bank"
+    },
+    {
+      "brand": "HDFC Bank",
+      "short_name": "HDFC",
+      "aliases": ["hdfc", "hdfcbank"],
+      "official_domains": [
+        "hdfcbank.com",
+        "hdfc.com"
+      ],
+      "category": "bank"
+    },
+    {
+      "brand": "ICICI Bank",
+      "short_name": "ICICI",
+      "aliases": ["icici", "icicibank"],
+      "official_domains": [
+        "icicibank.com"
+      ],
+      "category": "bank"
+    },
+    {
+      "brand": "Axis Bank",
+      "short_name": "Axis Bank",
+      "aliases": ["axis", "axisbank"],
+      "official_domains": [
+        "axisbank.com"
+      ],
+      "category": "bank"
+    },
+    {
+      "brand": "Kotak Mahindra Bank",
+      "short_name": "Kotak",
+      "aliases": ["kotak", "kotakbank"],
+      "official_domains": [
+        "kotak.com"
+      ],
+      "category": "bank"
+    },
+    {
+      "brand": "Paytm",
+      "short_name": "Paytm",
+      "aliases": ["paytm"],
+      "official_domains": [
+        "paytm.com",
+        "paytmbank.com"
+      ],
+      "category": "wallet"
+    },
+    {
+      "brand": "PhonePe",
+      "short_name": "PhonePe",
+      "aliases": ["phonepe"],
+      "official_domains": [
+        "phonepe.com"
+      ],
+      "category": "wallet"
+    },
+    {
+      "brand": "Google Pay",
+      "short_name": "Google Pay",
+      "aliases": ["gpay", "googlepay"],
+      "official_domains": [
+        "pay.google.com"
+      ],
+      "category": "wallet"
+    },
+    {
+      "brand": "Income Tax Department",
+      "short_name": "Income Tax",
+      "aliases": ["incometax", "incometaxindia"],
+      "official_domains": [
+        "incometax.gov.in",
+        "incometaxindia.gov.in"
+      ],
+      "category": "government"
+    },
+    {
+      "brand": "UIDAI (Aadhaar)",
+      "short_name": "UIDAI",
+      "aliases": ["uidai", "aadhaar"],
+      "official_domains": [
+        "uidai.gov.in",
+        "myaadhaar.uidai.gov.in"
+      ],
+      "category": "government"
+    },
+    {
+      "brand": "National Payments Corporation of India (NPCI)",
+      "short_name": "NPCI",
+      "aliases": ["npci"],
+      "official_domains": [
+        "npci.org.in"
+      ],
+      "category": "government"
+    }
+  ]
+}
