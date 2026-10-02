@@ -277,11 +277,10 @@ Screenshots of the working PhishLens application can be added to this README to 
 * **Kiran Patel**
 
 ---
-
 ## 🔗 GitHub Repository
 
 [https://github.com/Bhumioza02/T-48-PhishLens](https://github.com/Bhumioza02/T-48-PhishLens)
-
+web link: http://localhost:8502
 ---
 
 **PHISHLENS — SCAN BEFORE YOU TRUST.**
